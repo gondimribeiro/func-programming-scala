@@ -11,12 +11,12 @@
 # Scala-related
 # ===
 
-/project/*-shim.sbt
-/project/project/
-/project/target/
-/target/
+*/project/*-shim.sbt
+*/project/project/
+*/project/target/
+*/target/
+*/*/target/*
 */target/*
-target/*
 /subprojects/contrib/*/target/
 /subprojects/contrib/*/project/
 /subprojects/platform/*/target/
