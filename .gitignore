@@ -17,13 +17,13 @@
 */target/
 */*/target/*
 */target/*
-/subprojects/contrib/*/target/
-/subprojects/contrib/*/project/
-/subprojects/platform/*/target/
-/subprojects/project/*/project/
-/common-etl/project/project/
-/common-etl/project/target/
-/reconciliation/heterogeneous_fixture/target/
+*/subprojects/contrib/*/target/
+*/subprojects/contrib/*/project/
+*/subprojects/platform/*/target/
+*/subprojects/project/*/project/
+*/common-etl/project/project/
+*/common-etl/project/target/
+*/reconciliation/heterogeneous_fixture/target/
 
 # Directories for Integration Testing
 # ===
